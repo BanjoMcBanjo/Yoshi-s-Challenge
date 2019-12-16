@@ -11,25 +11,44 @@
   has been clicked)
   
   Tile/Sprite Overview:
-newline =  Yoshi Sprite: The player's sprite
-newline =  Baby Mario Sprite: Sprite of the destination, Baby Mario
-newline =  Open Tile: Regular Tile that can be walked on
-newline =  Wall Tile: Tile that blocks movement under all circumstances
+  
+  Yoshi Sprite: The player's sprite
+  
+  Baby Mario Sprite: Sprite of the destination, Baby Mario
+  
+  Open Tile: Regular Tile that can be walked on
+  
+  Wall Tile: Tile that blocks movement under all circumstances
+  
   Grass Tile: Surrounds the outside of the board - serves no real purpose
+  
   Temporary Wall Tile: Red Tile that blocks access to Baby Mario until all eggs are collected
+  
   Egg Sprite: Egg that can be collected by walking on top of it 
+  
   Door Tile: Door that requires a specific key to be opened, at which point it disappears. All doors look the same, but each one
   requires a specific key
+  
   Hint Sprite: Winged cloud with a question mark. Standing on top of this will provide a hint for completing the level.
+  
   Yellow Coin Sprite: A collectible key that can become part of the player's inventory
+  
   Red Coin Sprite: A collectible key that can become part of the player's inventory
+  
   Flower Sprite: A collectible key that can become part of the player's inventory
+  
   Star Sprite: A collectible key that can become part of the player's inventory
+  
   Bubble Sprite: A collectible accessory that can become part of the player's inventory
+  
   Boot Sprite: A collectible accessory that can become part of the player's inventory
+  
   Water Tile: A A tile that kills the player when walked on without a bubble
+  
   Fire Tile: A tile that kills the player when walked on without boots
+  
   Ice Tile: A tile that, when walked on, causes the player to slide uncontrollably in the direction of initial movement.
+  
   Trap Tile: Looks exactly like an open tile, but kills the player when walked on
   
   NOTES BEFORE/WHILE PLAYING:
