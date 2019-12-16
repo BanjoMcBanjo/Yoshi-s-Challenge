@@ -487,7 +487,7 @@ def main():
 
     # Level time indicates the starting time for each level
     levelTime1 = 60  # levelTime will have to be changed between levels
-    levelTime2 = 100
+    levelTime2 = 50
     levelTimeUsed = levelTime1
 
     timeStep = levelTime1  # Designates starting time step; To be changed with multiple levels
