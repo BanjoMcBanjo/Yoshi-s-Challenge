@@ -11,10 +11,10 @@
   has been clicked)
   
   Tile/Sprite Overview:
-  Yoshi Sprite: The player's sprite
-  Baby Mario Sprite: Sprite of the destination, Baby Mario
-  Open Tile: Regular Tile that can be walked on
-  Wall Tile: Tile that blocks movement under all circumstances
+newline =  Yoshi Sprite: The player's sprite
+newline =  Baby Mario Sprite: Sprite of the destination, Baby Mario
+newline =  Open Tile: Regular Tile that can be walked on
+newline =  Wall Tile: Tile that blocks movement under all circumstances
   Grass Tile: Surrounds the outside of the board - serves no real purpose
   Temporary Wall Tile: Red Tile that blocks access to Baby Mario until all eggs are collected
   Egg Sprite: Egg that can be collected by walking on top of it 
